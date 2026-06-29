@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.1.1
+
+Fixed an issue with the answering guideline: The listed damage criteria were off by one (e.g., Major disturbance instead of Service Required)
+
 ## v1.1.0
 
 * Refactoring for improved performance
